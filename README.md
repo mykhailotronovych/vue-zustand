@@ -112,7 +112,3 @@ export default defineNuxtPlugin((nuxtApp) => {
   }
 })
 ```
-
-## License
-
-MIT
